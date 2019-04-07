@@ -1,2 +1,2 @@
 # Clean-water-AI
-suing iot and AI to find and classify clean drinking water
+Using iot and AI to find and classify clean drinking water
